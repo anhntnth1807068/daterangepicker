@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Daterange_Picker_Demo", "Daterange_Picker_Demo\Daterange_Picker_Demo.csproj", "{AC0B7EF0-D558-4C0C-A87E-74C57F79A87E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC0B7EF0-D558-4C0C-A87E-74C57F79A87E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC0B7EF0-D558-4C0C-A87E-74C57F79A87E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC0B7EF0-D558-4C0C-A87E-74C57F79A87E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC0B7EF0-D558-4C0C-A87E-74C57F79A87E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A3084D7-13BF-4F0E-9031-A0D739720E50}
+	EndGlobalSection
+EndGlobal
